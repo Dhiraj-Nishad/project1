@@ -1,0 +1,38 @@
+body{
+
+background-image: url(../images/cookie-monster.jpg);
+background-position: center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+
+}
+
+
+#container{
+
+
+	
+	background: black; color:white;
+	width:450px;
+	color: white;
+	padding: 15pxs;
+}
+
+
+
+h1{
+	font-size: 85px;
+}
+
+h2{
+	background-color: rgb(16, 169, 240); color:black;
+	padding:5px;
+	border-radius: 5px;
+}
+
+a{
+	color:rgb(16, 169, 240);
+	text-decoration-line: none;
+}
